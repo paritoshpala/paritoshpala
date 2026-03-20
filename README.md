@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Building backend projects using Spring Boot (REST APIs, CRUD, error handling)<br>👯 I’m looking to collaborate on : Beginner-friendly backend or Java projects<br>🤝 I’m looking for help with : Improving backend design, debugging, and writing clean code<br>🌱 I’m currently learning : Spring Boot, REST APIs, Git, and backend debugging<br>💬 Ask me about : Java basics, Spring Boot fundamentals, or Git<br>⚡ Fun fact :I enjoy understanding how things work under the hood
+🔭 I’m currently working on : Building backend projects using Spring Boot (REST APIs, CRUD, error handling)<br>👯 I’m looking to collaborate on : Beginner-friendly backend or Java projects<br>🤝 I’m looking for help with : Improving backend design, debugging, and writing clean code<br>🌱 I’m currently learning : Spring Boot, REST APIs, Git, and backend debugging<br>💬 Ask me about : Java basics, Python basics, C basics<br>⚡ Fun fact :I enjoy understanding how things work under the hood
  
 
 # 💻 Tech Stack:
